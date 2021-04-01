@@ -3,9 +3,5 @@
     "bot_token":"1323209596:AAHp7IbcdyF3X77SgS_lqxjd4MeCFTjPbuM",
     "api_id":"2346966",
     "api_hash":"f8be8fd28a7ca7b772944d60061377ce",
-    #"proxy":"是否使用代理，true 或者false，去除双引号",
-    #"proxy_type":"socks5或者http或者https", 
-    #"proxy_add":"代理IP地址例如：192.168.99.100", 
-    #"proxy_port":"代理端口，不需要双引号例如 5890",
     "StartCMD":true
 }
